@@ -1,0 +1,75 @@
+.nav{
+     background-color : #111111;
+     color: white;
+     text-align: right;
+     padding: 20px;
+     padding-top: 25px;
+     font-size: 16px;
+     width: 1400px;
+     margin: 0px;
+}
+
+.head {
+        color: white;
+        background-color : #111111;
+        margin-top : 30px;
+        margin-left : 15px;
+        text-align: center;
+        font-size: 18px;
+        font-family : Cursive;
+        width : 480px;
+        height : auto;
+        padding-bottom: 20px;
+}
+
+.row {
+      width : 480px;
+      height : 520px;
+      background-color : #111111;
+      border-color : blue;
+      margin-top : 30px ;
+      margin-left : 15px;
+}
+
+body{
+      margin: 0px;
+}
+
+#slct_year .VirtualizedSelectOption {
+    background-color: #111111;
+    color: white;
+}
+
+#slct_year .VirtualizedSelectFocusedOption {
+  background-color: white;
+  color: black;
+}
+
+#slct_year .Select-control {
+  background-color: #111111;
+  border-color: white;
+}
+
+#slct_year .Select-value-label{
+    color: white;
+}
+
+.image1{
+    position: relative;
+    height: 64px;
+}
+
+.image2{
+    position: relative;
+    height: 400px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 150px;
+}
+
+.intro{
+    text-align: right;
+    color: white;
+    font-family: Cursive;
+    margin-top: 0px;
+}
